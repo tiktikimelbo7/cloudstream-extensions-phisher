@@ -6,11 +6,7 @@ concurrency:
   cancel-in-progress: true
 
 on:
-  push:
-    branches:
-      # choose your default branch
-      - master
-      - main
+  workflow_dispatch:
     paths-ignore:
       - '*.md'
 
