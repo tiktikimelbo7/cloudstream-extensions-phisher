@@ -55,7 +55,7 @@ class Cinemacity : MainAPI() {
     companion object
     {
         val headers = mapOf(
-            "Cookie" to base64Decode("ZGxlX3VzZXJfaWQ9dG9ubW95azk4MzsgZGxlX3Bhc3N3b3JkPTEyNTgwNTY4N1RvbkAjOw==")
+            "Cookie" to base64Decode("ZGxlX3VzZXJfaWQ9dG9ubW95azk4MzsgZGxlX3Bhc3N3b3JkPTEyNTgwNTY4N1RvbkAjOw=")
         )
         private const val TMDBIMAGEBASEURL = "https://image.tmdb.org/t/p/original"
         private const val cinemeta_url = "https://v3-cinemeta.strem.io/meta"
