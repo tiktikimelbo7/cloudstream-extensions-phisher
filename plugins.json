@@ -1,0 +1,22 @@
+[
+    {
+        "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/Cinemacity.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/tiktikimelbo7/cloudstream-extensions-phisher",
+        "fileSize": 39847,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Tiktikimelbo7"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 4,
+        "internalName": "Cinemacity",
+        "description": "Watch Movies & TvSeries (Multi-Lang/Audio)",
+        "url": "https://raw.githubusercontent.com/tiktikimelbo7/cloudstream-extensions-phisher/builds/Cinemacity.cs3",
+        "name": "Cinemacity"
+    }
+]

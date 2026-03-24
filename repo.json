@@ -1,0 +1,9 @@
+{
+    "name": "Tiktikimelbo Repo",
+    "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/RepoIcon.png",
+    "description": "Tiktikimelbo Repository",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/tiktikimelbo7/cloudstream-extensions-phisher/builds/plugins.json"
+    ]
+}
