@@ -4,7 +4,7 @@ version = 4
 
 cloudstream {
     description = "Watch Movies & TvSeries (Multi-Lang/Audio)"
-    authors = listOf("Phisher98")
+    authors = listOf("Tiktikimelbo7")
 
     /**
     * Status int as the following:
